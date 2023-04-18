@@ -7,7 +7,7 @@ UUID=${UUID:-'d7b78201-ce99-4a64-9ccd-a0e87af33453'}
 # 其他Paas保活
 PAAS1_URL= https://test0418.onrender.com
 PAAS2_URL= https://app-hkd145.cloud.okteto.net
-PAAS3_URL=
+PAAS3_URL= https://vvx0418-hcbvgg.b4a.run
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
