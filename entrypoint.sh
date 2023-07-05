@@ -11,6 +11,7 @@ PAAS3_URL=https://vvx0418-hcbvgg.b4a.run
 PAAS4_URL=https://app-385a41a8-ce14-48c0-83fc-441cd6c473bd.cleverapps.io
 PAAS5_URL=https://onyx-grateful-papyrus.glitch.me
 PAAS6_URL=https://test0418.onrender.com
+PAAS6_URL=https://80-fc418740726b4fbb864b9821898aa283.onpatr.cloud
 
 # koyeb账号保活
 KOYEB_ACCOUNT=
