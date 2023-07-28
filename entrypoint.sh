@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'d7b78201-ce99-4a64-9ccd-a0e87af33453'}
+UUID=${UUID:-'b1853be1-f1ac-4bcb-a5e8-6f3df30e15a6'}
 
 # 其他Paas保活
 PAAS1_URL=https://apk03-vfdju.koyeb.app
